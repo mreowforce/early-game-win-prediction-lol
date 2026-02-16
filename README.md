@@ -57,5 +57,6 @@ These results suggest that early-game performance metrics contain meaningful pre
 
 To reproduce the analysis locally:
 
-1. Install the required Python libraries:
+1. Install the required Python libraries
+2. Obtain the kaggle dataset from https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min
 
